@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Peiyuan Xiao | Paleolithic Archaeology"
+title                    : "Peiyuan Xiao"
 title_separator          : "-"
 name                     : &name "Peiyuan Xiao"
 description              : &description "PhD Student in Archaeology at CAS | Visiting Student at UW"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://PeiyuanXiao.github.io # The base hostname & protocol for your site e.g. "https://PeiyuanXiao.github.io",
                                                            # or if you already have some other page hosted on Github then use "https://PeiyuanXiao.github.io/Personal_page"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "PeiyuanXiao/PeiyuanXiao.github.ioo"
+repository               : "PeiyuanXiao/PeiyuanXiao.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,23 +26,16 @@ author:
   avatar           : "profile.png"
   name             : "Peiyuan Xiao"
   pronouns         : # example: "he/him"  
-  bio              : "PhD Student researching Paleolithic technology and 3D morphometrics"
+  bio              : "PhD Student researching Paleolithic technology"
   location         : "Beijing & Seattle"
   employer         : "Chinese Academy of Sciences / University of Washington"
   uri              : # URL
   email            : "pyxiao@uw.edu" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=niSM-9sAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
   orcid            : "https://orcid.org/0009-0000-9733-5875"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Peiyuan-Xiao"
   scopus           : # URL
   zotero           : # URL
 
@@ -56,14 +49,6 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
