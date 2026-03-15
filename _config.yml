@@ -13,10 +13,10 @@ title                    : "Peiyuan Xiao | Paleolithic Archaeology"
 title_separator          : "-"
 name                     : &name "Peiyuan Xiao"
 description              : &description "PhD Student in Archaeology at CAS | Visiting Student at UW"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://PeiyuanXiao.github.io",
+url                      : https://PeiyuanXiao.github.io # The base hostname & protocol for your site e.g. "https://PeiyuanXiao.github.io",
                                                            # or if you already have some other page hosted on Github then use "https://PeiyuanXiao.github.io/Personal_page"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "PeiyuanXiao/PeiyuanXiao.github.ioo"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Personal_page"
+  github           : "PeiyuanXiao"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -170,7 +170,7 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
-  - .github
+  - .
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/_main.js
@@ -314,7 +314,7 @@ plugins:
   - jekyll-redirect-from
   - jemoji
 
-# Mimic GitHub Pages with --safe
+# Mimic  Pages with --safe
 whitelist:
   - jekyll-feed
   - jekyll-gist
@@ -326,7 +326,7 @@ whitelist:
 
 # Archives
 #  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  -  Pages compatible archive pages built with Liquid ~> type: liquid (default)
 #  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
 #  Path (examples)
 #  - Archive page should exist at path when using Liquid method or you can
